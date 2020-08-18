@@ -93,6 +93,7 @@ namespace FallingApples
 				}
 			}
 		}
+		//Wait
 		async void wait()
 		{
 			await Task.Delay(50);
