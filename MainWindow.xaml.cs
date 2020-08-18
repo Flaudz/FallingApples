@@ -93,7 +93,7 @@ namespace FallingApples
 				}
 			}
 		}
-		//Wait
+		//Wait WHATS UP BITCHES
 		async void wait()
 		{
 			await Task.Delay(50);
